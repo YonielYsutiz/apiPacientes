@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "./proyectos_firebase/apiPacientes",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

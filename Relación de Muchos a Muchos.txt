@@ -1,0 +1,27 @@
+Crear un usuario
+----------------
+
+{
+    "name" : "Juan",
+    "email": "juan2021@gmail.com",
+    "password": "123123"
+}
+
+Crear un rol
+------------
+Para ahorrar tiempo, lo crearemos directamente desde la base de datos.
+
+
+
+Crear un usuario con sus roles
+------------------------------
+
+{
+    "name" : "Maicol",
+    "email": "maicol@gmail.com",
+    "password": "123123",
+    "roles": [
+        "1",
+        "2"
+    ]
+}
